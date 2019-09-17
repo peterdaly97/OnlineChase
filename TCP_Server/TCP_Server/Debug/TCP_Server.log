@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\peter\desktop\onlinechase\tcp_server\tcp_server\main.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\peter\desktop\onlinechase\tcp_server\tcp_server\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  TCP_Server.vcxproj -> C:\Users\peter\Desktop\OnlineChase\TCP_Server\TCP_Server\Debug\TCP_Server.exe

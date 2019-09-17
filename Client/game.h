@@ -23,8 +23,8 @@ public:
 
 private:
 	//Screen dimension constants
-	const int SCREEN_WIDTH = 1800;
-	const int SCREEN_HEIGHT = 1000;
+	const int SCREEN_WIDTH = 720;
+	const int SCREEN_HEIGHT = 400;
 
 	//The window we'll be rendering to
 	SDL_Window* gWindow = NULL;
@@ -45,7 +45,7 @@ private:
 	Dot* dot;
 	Dot* dot2;
 	
-	Client client = Client("149.153.106.155", 54000);
+	Client client = Client("10.203.69.1", 54000);
 
 	bool joined = false;
 	bool enemyJoined = false;

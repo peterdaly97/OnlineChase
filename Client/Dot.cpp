@@ -14,13 +14,13 @@ Dot::Dot(bool chaser)
 	{
 		gDotTexture.setColor(244, 66, 66);
 		mPosX = 100;
-		mPosY = 400;
+		mPosY = 100;
 	}
 	else
 	{
 		gDotTexture.setColor(66, 69, 244);
-		mPosX = 800;
-		mPosY = 400;
+		mPosX = 400;
+		mPosY = 100;
 	}
 
 	width = 50;
